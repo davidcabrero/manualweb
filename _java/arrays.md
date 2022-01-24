@@ -78,7 +78,7 @@ matriz[1][1] = x;     // Para asignar un valor.
 Hay que tener en cuenta que para mostrar su contenido tendremos que utilizar dos bucles. Para saber el número de columnas lo haremos igual que antes mediante la variable ```.length```, pero para saber el numero de filas que contiene cada columna lo tendremos que realizar de la siguiente manera:
 
 ~~~java
-matriz[numero_elemento].lenght;
+matriz[numero_elemento].length;
 ~~~
 
 Nuestra lectura de los elementos de una matriz quedaría de la siguiente forma:
